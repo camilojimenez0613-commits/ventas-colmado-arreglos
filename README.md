@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/35223281/README.2.md)
 # Ventas del Colmado "Don Pepe"
 
 Programa en C++ que registra las ventas diarias de un colmado de lunes a domingo, las guarda en un arreglo unidimensional y muestra un resumen claro: total semanal, promedio diario, mayor y menor venta, y los días que superaron el promedio.
