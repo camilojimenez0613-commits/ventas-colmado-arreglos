@@ -4,7 +4,9 @@
 Programa en C++ que registra las ventas diarias de un colmado de lunes a domingo, las guarda en un arreglo unidimensional y muestra un resumen claro: total semanal, promedio diario, mayor y menor venta, y los días que superaron el promedio.
 
 **Estudiante:** Camilo Salas Jimenez
+
 **Asignatura:** Lógica de Programación
+
 **Docente:** Gamalier Reyes del Carmen
 
 ## Características
